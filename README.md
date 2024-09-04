@@ -8,6 +8,7 @@ A comprehensive trading platform for real-time trading and market data visualiza
 - Frontend: Next.js
 - Backend: Node.js, Express
 - Database: Redis, TimescaleDB
+- 
 
 
 ## Architecture
