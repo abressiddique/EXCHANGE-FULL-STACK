@@ -11,6 +11,7 @@ A comprehensive trading platform for real-time trading and market data visualiza
 - 
 
 
+
 ## Architecture
 
 1. **API Server**: Manages HTTP requests.
