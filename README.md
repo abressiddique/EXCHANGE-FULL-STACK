@@ -20,14 +20,19 @@ A comprehensive trading platform for real-time trading and market data visualiza
 7. **Redis**: Manages queue and pub/sub operations.
 8. **TimescaleDB**: Handles time-series data.
 
+### Architecture Diagram
+
+Here is a visual representation of the system architecture:
+
+![System Architecture](demo/image4.png)
+
 ## Project Screenshots
 
-Here are some screenshots of the project:
+Here are some additional screenshots of the project:
 
 ![Screenshot 1](demo/image1.png)
 ![Screenshot 2](demo/image2.png)
 ![Screenshot 3](demo/image3.png)
-![Screenshot 4](demo/image4.png)
 
 ## Project Setup
 
