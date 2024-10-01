@@ -9,6 +9,7 @@ A comprehensive trading platform for real-time trading and market data visualiza
 - Backend: Node.js, Express
 - Database: Redis, TimescaleDB
 
+
 ## Architecture
 
 1. **API Server**: Manages HTTP requests.
