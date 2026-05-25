@@ -41,7 +41,7 @@ To set up and run the project locally, follow these steps:
 
 ### Prerequisites
 
-Make sure you have **Node.js** and **Redis** installed on your machine.
+Make sure you have **Node.js** and **Redis** installed on your machine..
 
 ### Installation
 
